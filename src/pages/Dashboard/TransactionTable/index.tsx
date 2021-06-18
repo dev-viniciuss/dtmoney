@@ -5,7 +5,7 @@ import { TransactionContext } from '../../../hooks/TransactionsContext'
 import * as Styles from './styles'
 
 export function TransactionTable() {
-  const transactions = useContext(TransactionContext)
+  const { transactions } = useContext(TransactionContext)
 
   return(
     <Styles.Container>
