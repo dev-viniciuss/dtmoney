@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { TransactionProvider } from './hooks/TransactionsContext'
+import { TransactionProvider } from './hooks/useTransactions'
 
 import { Header } from './components/Header'
 import { NewTransactionModal } from './components/NewTransactionModal'
