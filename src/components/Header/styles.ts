@@ -13,6 +13,10 @@ export const Content = styled.div`
   align-items: center;
   justify-content: space-between;
 
+  @media (max-width: 720px) {
+    padding: 2rem 1rem 8.5rem;
+  }
+
   button {
     height: 3rem;
     font-size: 1rem;
