@@ -16,6 +16,7 @@ export const Content = styled.div`
   button {
     height: 3rem;
     font-size: 1rem;
+    font-weight: 600;
     color: var(--shape);
     background: var(--blue-light);
     border: 0;
@@ -26,6 +27,12 @@ export const Content = styled.div`
 
     &:hover {
       filter: brightness(0.9);
+    }
+
+    @media (max-width: 720px) {
+      font-size: 0.9rem;
+      padding: 0 1.5rem;
+      border-radius: 0.4rem;
     }
   }
 `
