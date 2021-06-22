@@ -6,11 +6,35 @@ export const Container = styled.div`
   gap: 2rem;
   margin-top: -5rem;
 
+  @media (max-width: 720px) {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+
+    &::-webkit-scrollbar{
+      width: 0;
+    }
+    
+  }
+
   div {
     background: var(--shape);
     padding: 1.5rem 2rem;
     border-radius: 0.25rem;
     color: var(--text-title);
+
+    @media (max-width: 720px) {
+      min-width: 70vw;
+
+      &:first-child {
+        margin-left: 1.5rem;
+      }
+
+      &:last-child {
+        margin-right: 1.5rem;
+      }
+
+    }
 
     header {
       display: flex;
