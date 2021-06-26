@@ -17,7 +17,7 @@
 <br />
 
 ## ⚙️Como o projeto funciona?
-Através do site é possível cadastrar uma transação, ficando esta listada na aplicação, podendo ser classificada com transação de entrada ou saíada.
+Através do site é possível cadastrar uma transação, ficando esta listada na aplicação, podendo ser classificada como transação de entrada ou saída.
 
 ## 👨🏻‍💻Tecnologias usadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
