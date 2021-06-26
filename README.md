@@ -11,8 +11,9 @@
 **Dtmoney** é uma aplicação Web que tem como objetivo ajudar as pessoas organizar sua vida financeira.
 <br />
 <br />
-<img src="https://github.com/dev-viniciuss/dtmoney/blob/main/notebook.png">
-<br />
+<p align="center">
+  <img src="https://github.com/dev-viniciuss/dtmoney/blob/main/notebook.png" width="90%">
+</p>
 <br />
 
 ## ⚙️Como o projeto funciona?
