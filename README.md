@@ -12,7 +12,7 @@
 <br />
 <br />
 <p align="center">
-  <img src="https://github.com/dev-viniciuss/dtmoney/blob/main/notebook.png" width="90%">
+  <img src=".github/notebook.png" width="90%">
 </p>
 <br />
 
